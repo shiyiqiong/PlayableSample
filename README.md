@@ -15,3 +15,5 @@ Playable节点：
 - 混合动画播放场景：PlayBlendTreeAnimation
 - 分层混合动画播放场景：PlayLayerAnimation
 - 混合动画状态机播放场景：PlayableAddAnimatorController
+***
+参考资料：https://zhuanlan.zhihu.com/p/380124248
